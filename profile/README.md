@@ -1,2 +1,3 @@
-[![](https://centrifugal.dev/assets/images/bg_cat-9606322f82479d456c4633d31dba424f.jpg)](https://centrifugal.dev/)
+[![](https://centrifugal.dev/assets/images/bg_cat-975c20ed8cf4a65568bc628c638050f9.jpg)](https://centrifugal.dev/)
+
 
