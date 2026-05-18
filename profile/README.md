@@ -6,4 +6,4 @@ Centrifugo blasts messages to online users instantly via WebSocket, HTTP-streami
 
 Official SDKs (JavaScript, Swift, Java, C#, Dart, Python, Go) make it dead simple to build browser and mobile real-time apps – chats, live updates, multiplayer games, dashboards, streaming AI responses, collaborative experience, and more.
 
-[![](https://centrifugal.dev/assets/images/bg_cat-975c20ed8cf4a65568bc628c638050f9.jpg)](https://centrifugal.dev/)
+[![](cat_centrifugo.png)](https://centrifugal.dev/)
